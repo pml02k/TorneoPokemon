@@ -18,4 +18,17 @@ Está desarrollado con programación orientada a objetos en Java.
 
 ## Estructura del sistema
 
-- "Pokemon.java": clase
+- "Pokemon.java": clase que representa a cada Pokémon
+- "Entrenador.java": Maneja los Pokémon y las victorias
+- "Batalla.java": Lógica de enfrentamientos por ronda
+- "Torneo.java": Control del torneo y flujo completo
+- "Main.java": Punto de inicio de la ejecución
+
+---
+
+## ¿Cómo correr el proyecto?
+1. Compila todos los archivos ".java"
+2. Ejecutar "Main.java" desde la termina
+3. Seguir las instrucciones en pantalla para elegir acciones y observar el resultado del torneo.
+
+
